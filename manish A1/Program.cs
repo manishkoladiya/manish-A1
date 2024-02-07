@@ -1,7 +1,7 @@
 ﻿using System;
 
 class VirtualPet
-{
+{   
     private const int MaxStatValue = 10;
     private const int MinStatValue = 1;
 
